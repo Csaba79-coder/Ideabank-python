@@ -1,0 +1,2 @@
+Hope it really works!& C:/Users/PC/anaconda3/python.exe c:/Users/PC/Documents/GitHub/ideabank-python-Csaba79-coder/ideabank2.0.py
+I have a great idea! Continue workbook! It works!

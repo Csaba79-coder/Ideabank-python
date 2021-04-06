@@ -1,0 +1,3 @@
+My new ideas
+1. ki tudja
+1. /usr/bin/python3 /home/hp/Dokumentumok/GitHub/ideabank-python-Csaba79-coder/ideabank.py
